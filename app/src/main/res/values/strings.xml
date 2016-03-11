@@ -1,10 +1,7 @@
 <resources>
-    <string name="app_name">TD2</string>
-    <string name="action_settings">Settings</string>
-    <string name="xml_error">Error</string>
-    <string name="connection_error">connection error</string>
-    <string name="page_title">titre</string>
-    <string name="updated">updated</string>
-    <string name="title_activity_list_contract">ListContract</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="app_name">TpYoutube</string>
+    <string name="search_button">Search</string>
+    <string name="search_text">Rechercher sur Youtube</string>
+    <string name="title_activity_video_result">VideoResultActivity</string>
+    <string name="title_activity_video_info">VideoInfoActivity</string>
 </resources>

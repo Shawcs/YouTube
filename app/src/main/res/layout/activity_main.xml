@@ -24,6 +24,7 @@
     <android.support.v7.widget.RecyclerView
     android:id="@+id/my_recycler_view_histo"
     android:scrollbars="vertical"
+        android:layout_below="@+id/b_search"
     android:layout_width="match_parent"
     android:layout_height="match_parent"/>
 </RelativeLayout>
